@@ -1,18 +1,28 @@
 
-# Hi, I'm Jimmy Bustillo
+# ¡Hola 👋🏻! Soy Jimmy Bustillo
 
-Frontend developer who would like to write code to create solutions.
+Soy **Desarrollador Frontend** que busca la oportunidad de demostrar los conocimientos aprendidos de forma autodidacta. Me gustan los diseños intuitivos y agradables que brinden una buena experiencia al usuario.
 
-I'm currently learning about web development with a focus on the customer. 
+<a href="https://www.linkedin.com/in/jimmy-bustillo/"><img src="https://img.shields.io/badge/Linkedin-%231572B6.svg?style=for-the-badge&logo=Linkedin&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
 
-I would like to develop tools that help people solve their problems and create fun things.
 
-You can access my repositories to get feedback, tips and see my work.
+---
 
-##  Skills
-* HTML5
-* CCS3
-* JavaScript
-* Git
+Tecnologías que uso
 
+💻️ Lenguajes:
+
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css)](https://skillicons.dev)
+
+<br>
+
+📕 Frameworks:
+
+[![Frameworks](https://skillicons.dev/icons?i=react,nextjs,tailwind,astro)](https://skillicons.dev)
+
+<br>
+
+🛠️ Herramientas: 
+
+[![Frameworks](https://skillicons.dev/icons?i=git,github,figma,vite)](https://skillicons.dev)
 
